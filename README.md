@@ -21,4 +21,4 @@ Experiments within the ELN are identified using the following key:
 
 For example, LCF_78_04 represents the 4th repeat of a LCF78 experiment, performed by Lucas Coral.
 
-The licince for this page is CC-BY-4.0
+The license for this page is CC-BY-4.0
