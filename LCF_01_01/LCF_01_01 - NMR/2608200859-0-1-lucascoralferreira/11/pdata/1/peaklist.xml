@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2026-08-20T10:30:36">
+  <PeakList1D>
+    <PeakList1DHeader creator="Usuario" date="2026-08-20T10:30:36" expNo="11" name="2608200859-0-1-lucascoralferreira" owner="" procNo="1" source="C:/Users/Usuario/Downloads/LCF_01_01">
+      <PeakPickDetails>F1=163.773816ppm, F2=150.709777ppm, MI=0.18cm, MAXI=0.99cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="159.60023166972584" intensity="0.1975902" type="0"/>
+    <Peak1D F1="157.09212166972583" intensity="0.3150766" type="0"/>
+    <Peak1D F1="155.41918666972583" intensity="0.4289191" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="Usuario" date="2026-08-20T10:30:36" expNo="11" name="2608200859-0-1-lucascoralferreira" owner="" procNo="1" source="C:/Users/Usuario/Downloads/LCF_01_01">
+      <PeakPickDetails>F1=131.208386ppm, F2=111.233661ppm, MI=0.15cm, MAXI=0.72cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="127.61826066972583" intensity="0.4019458" type="0"/>
+    <Peak1D F1="122.52823366972584" intensity="0.2280225" type="0"/>
+    <Peak1D F1="115.51319266972583" intensity="0.198641" type="0"/>
+  </PeakList1D>
+</PeakList>
