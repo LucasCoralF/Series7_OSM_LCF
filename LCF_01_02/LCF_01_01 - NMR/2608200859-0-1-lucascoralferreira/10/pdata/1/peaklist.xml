@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2026-08-20T09:09:30.074+01:00" expNo="10" name="2608200859-0-1-lucascoralferreira" owner="" procNo="1" source="C:/Bruker/nmrdata/data/todd/nmr">
+      <PeakPickDetails>F1=16.417570ppm, F2=-4.067575ppm, MI=0.10cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="8.317985" intensity="3.286863e-01" type="0"/>
+    <Peak1D F1="7.547739" intensity="3.733531e-01" type="0"/>
+    <Peak1D F1="7.499582" intensity="4.963115e-01" type="0"/>
+    <Peak1D F1="3.426881" intensity="1.500000e+01" type="0"/>
+    <Peak1D F1="3.164369" intensity="2.650047e-01" type="0"/>
+    <Peak1D F1="2.499425" intensity="1.307251e+00" type="0"/>
+  </PeakList1D>
+</PeakList>
