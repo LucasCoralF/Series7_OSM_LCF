@@ -3,9 +3,9 @@
 <CDXML
  CreationProgram="ChemDraw 23.1.2.7"
  Name="LCF_15_01.cdxml"
- BoundingBox="127.05 525.09 770.71 840.69"
+ BoundingBox="237.57 494.12 860.23 797.69"
  WindowPosition="0 0"
- WindowSize="-2147483648 -1073741824"
+ WindowSize="-2147483648 1073741824"
  WindowIsZoomed="yes"
  FractionalWidths="yes"
  InterpretChemically="yes"
@@ -86,20 +86,183 @@
 </colortable><fonttable>
 <font id="3" charset="iso-8859-1" name="Arial"/>
 </fonttable><page
- id="220"
+ id="222"
  BoundingBox="0 0 1080 1439.50"
  HeaderPosition="36"
  FooterPosition="36"
  PrintTrimMarks="yes"
  HeightPages="2"
  WidthPages="2"
+><group
+ id="220"
+ BoundingBox="237.57 494.12 860.23 603.17"
+ Z="272"
+><group
+ id="219"
+ BoundingBox="523.57 524.16 652.07 556.41"
+ Z="271"
 ><fragment
+ id="82"
+ BoundingBox="569.75 524.16 605.88 537.61"
+ Z="78"
+><n
+ id="81"
+ p="573.36 529.48"
+ Z="77"
+ Warning="An atom in this label has an invalid valence."
+ NodeType="Fragment"
+ NeedsClean="yes"
+ AS="N"
+ AtomID="43"
+><fragment
+ id="223"
+><n
+ id="224"
+ p="561.69 525.89"
+ NumHydrogens="0"
+/><n
+ id="225"
+ p="549.26 533.07"
+ Element="8"
+ NumHydrogens="0"
+/><n
+ id="226"
+ p="574.11 533.07"
+ Element="8"
+ NumHydrogens="0"
+/><n
+ id="227"
+ p="586.54 525.89"
+ Element="8"
+ NumHydrogens="0"
+/><n
+ id="228"
+ p="598.97 533.07"
+ Element="55"
+ NumHydrogens="0"
+/><n
+ id="229"
+ p="613.32 529.48"
+ Element="55"
+ NumHydrogens="0"
+/><b
+ id="230"
+ B="227"
+ E="228"
+/><b
+ id="231"
+ B="226"
+ E="227"
+/><b
+ id="232"
+ B="224"
+ E="225"
+ Order="2"
+/><b
+ id="233"
+ B="224"
+ E="226"
+/></fragment><t
+ id="80"
+ p="569.75 533.41"
+ BoundingBox="569.75 524.16 605.88 537.61"
+ Z="76"
+ LabelJustification="Left"
+ LabelLineHeight="auto"
+ LineHeight="auto"
+ LabelAlignment="Left"
+><s font="3" size="10" color="0" face="1">Cs</s><s font="3" size="10" color="0" face="33">2</s><s font="3" size="10" color="0" face="1">CO</s><s font="3" size="10" color="0" face="33">3</s></t></n></fragment><fragment
+ id="85"
+ BoundingBox="576.98 544.66 598.65 556.41"
+ Z="81"
+><n
+ id="84"
+ p="580.60 549.98"
+ Z="80"
+ NodeType="Fragment"
+ NeedsClean="yes"
+ AS="N"
+ AtomID="44"
+><fragment
+ id="235"
+><n
+ id="236"
+ p="574.88 553.57"
+ NumHydrogens="1"
+/><n
+ id="237"
+ p="562.45 546.39"
+ Element="8"
+ NumHydrogens="0"
+/><n
+ id="238"
+ p="587.31 546.39"
+ Element="7"
+ NumHydrogens="0"
+/><n
+ id="239"
+ p="587.31 532.04"
+ NumHydrogens="3"
+/><n
+ id="240"
+ p="599.74 553.57"
+ NumHydrogens="3"
+/><b
+ id="241"
+ B="238"
+ E="239"
+/><b
+ id="242"
+ B="238"
+ E="240"
+/><b
+ id="243"
+ B="236"
+ E="237"
+ Order="2"
+/><b
+ id="244"
+ B="236"
+ E="238"
+/></fragment><t
+ id="83"
+ p="576.98 553.91"
+ BoundingBox="576.98 544.66 598.65 556.41"
+ Z="79"
+ LabelJustification="Left"
+ LabelLineHeight="auto"
+ LineHeight="auto"
+ LabelAlignment="Left"
+><s font="3" size="10" color="0" face="1">DMF</s></t></n></fragment><graphic
+ id="79"
+ SupersededBy="246"
+ BoundingBox="652.07 541.41 523.57 541.41"
+ Z="75"
+ GraphicType="Line"
+ ArrowType="FullHead"
+ HeadSize="2250"
+/><arrow
+ id="246"
+ BoundingBox="523.57 537.53 652.07 544.79"
+ Z="75"
+ FillType="None"
+ ArrowheadHead="Full"
+ ArrowheadType="Solid"
+ HeadSize="2250"
+ ArrowheadCenterSize="1969"
+ ArrowheadWidth="563"
+ Head3D="652.07 541.41 0"
+ Tail3D="523.57 541.41 0"
+ Center3D="875.32 837.16 0"
+ MajorAxisEnd3D="1003.82 837.16 0"
+ MinorAxisEnd3D="875.32 965.66 0"
+/></group><fragment
  id="8"
- BoundingBox="127.05 549.69 261.17 603.79"
+ BoundingBox="237.57 513.23 371.70 567.33"
  Z="4"
 ><n
  id="5"
- p="137.88 592.15"
+ p="248.40 555.68"
  Z="1"
  LabelFace="96"
  Element="7"
@@ -108,70 +271,70 @@
  AS="N"
  AtomID="23"
 ><t
- p="141.49 596.07"
- BoundingBox="127.05 587.73 141.49 596.07"
+ p="252.01 559.61"
+ BoundingBox="237.57 551.27 252.01 559.61"
  LabelJustification="Right"
  Justification="Right"
  LabelAlignment="Right"
 ><s font="3" size="10" color="0" face="97">NH</s></t></n><n
  id="7"
- p="149.63 600.47"
+ p="260.16 564"
  Z="3"
  LabelFace="96"
  AS="N"
  AtomID="24"
 /><n
  id="9"
- p="161.18 591.86"
+ p="271.70 555.40"
  Z="5"
  LabelFace="96"
  AS="N"
  AtomID="25"
 /><n
  id="11"
- p="156.56 578.22"
+ p="267.08 541.76"
  Z="7"
  LabelFace="96"
  AS="N"
  AtomID="26"
 /><n
  id="13"
- p="142.16 578.40"
+ p="252.68 541.93"
  Z="9"
  LabelFace="96"
  AS="N"
  AtomID="27"
 /><n
  id="20"
- p="175.30 594.68"
+ p="285.82 558.22"
  Z="16"
  LabelFace="96"
  AS="N"
  AtomID="28"
 /><n
  id="22"
- p="184.80 583.86"
+ p="295.33 547.40"
  Z="18"
  LabelFace="96"
  AS="N"
  AtomID="29"
 /><n
  id="24"
- p="180.18 570.22"
+ p="290.71 533.76"
  Z="20"
  LabelFace="96"
  AS="N"
  AtomID="30"
 /><n
  id="26"
- p="166.06 567.40"
+ p="276.59 530.94"
  Z="22"
  LabelFace="96"
  AS="N"
  AtomID="31"
 /><n
  id="33"
- p="133.55 566.85"
+ p="244.08 530.39"
  Z="29"
  LabelFace="96"
  Element="8"
@@ -180,54 +343,54 @@
  AS="N"
  AtomID="32"
 ><t
- p="129.66 570.78"
- BoundingBox="129.66 562.32 137.44 570.88"
+ p="240.19 534.31"
+ BoundingBox="240.19 525.86 247.97 534.41"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><n
  id="35"
- p="198.92 586.68"
+ p="309.45 550.22"
  Z="31"
  LabelFace="96"
  AS="N"
  AtomID="33"
 /><n
  id="55"
- p="203.54 600.32"
+ p="314.06 563.86"
  Z="51"
  LabelFace="96"
  AS="N"
  AtomID="34"
 /><n
  id="57"
- p="217.66 603.14"
+ p="328.19 566.68"
  Z="53"
  LabelFace="96"
  AS="N"
  AtomID="35"
 /><n
  id="59"
- p="227.16 592.32"
+ p="337.69 555.86"
  Z="55"
  LabelFace="96"
  AS="N"
  AtomID="36"
 /><n
  id="61"
- p="222.55 578.69"
+ p="333.07 542.22"
  Z="57"
  LabelFace="96"
  AS="N"
  AtomID="37"
 /><n
  id="63"
- p="208.42 575.86"
+ p="318.95 539.40"
  Z="59"
  LabelFace="96"
  AS="N"
  AtomID="38"
 /><n
  id="71"
- p="232.05 567.87"
+ p="342.57 531.40"
  Z="67"
  LabelFace="96"
  Element="16"
@@ -236,12 +399,12 @@
  AS="N"
  AtomID="39"
 ><t
- p="228.71 571.79"
- BoundingBox="228.71 563.33 235.38 571.94"
+ p="339.24 535.33"
+ BoundingBox="339.24 526.87 345.91 535.48"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">S</s></t></n><n
  id="73"
- p="227.43 554.23"
+ p="337.96 517.76"
  Z="69"
  LabelFace="96"
  Element="8"
@@ -250,12 +413,12 @@
  AS="N"
  AtomID="40"
 ><t
- p="223.54 558.15"
- BoundingBox="223.54 549.69 231.32 558.25"
+ p="334.07 521.69"
+ BoundingBox="334.07 513.23 341.85 521.79"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><n
  id="75"
- p="246.17 570.69"
+ p="356.70 534.22"
  Z="71"
  LabelFace="96"
  Element="7"
@@ -264,13 +427,13 @@
  AS="N"
  AtomID="41"
 ><t
- p="242.56 574.61"
- BoundingBox="242.56 566.27 261.17 576.76"
+ p="353.08 538.15"
+ BoundingBox="353.08 529.81 371.70 540.30"
  LabelJustification="Left"
  LabelAlignment="Left"
 ><s font="3" size="10" color="0" face="97">NH2</s></t></n><n
  id="77"
- p="241.55 557.05"
+ p="352.08 520.58"
  Z="73"
  LabelFace="96"
  Element="8"
@@ -279,8 +442,8 @@
  AS="N"
  AtomID="42"
 ><t
- p="237.66 560.97"
- BoundingBox="237.66 552.51 245.44 561.07"
+ p="348.19 524.51"
+ BoundingBox="348.19 516.05 355.97 524.61"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><b
  id="15"
@@ -474,144 +637,12 @@
  Order="2"
  BS="N"
 /></fragment><fragment
- id="82"
- BoundingBox="480.23 574.25 516.35 587.70"
- Z="78"
-><n
- id="81"
- p="483.84 579.57"
- Z="77"
- Warning="An atom in this label has an invalid valence."
- NodeType="Fragment"
- NeedsClean="yes"
- AS="N"
- AtomID="43"
-><fragment
- id="221"
-><n
- id="222"
- p="472.16 575.99"
- NumHydrogens="0"
-/><n
- id="223"
- p="459.73 583.16"
- Element="8"
- NumHydrogens="0"
-/><n
- id="224"
- p="484.59 583.16"
- Element="8"
- NumHydrogens="0"
-/><n
- id="225"
- p="497.02 575.99"
- Element="8"
- NumHydrogens="0"
-/><n
- id="226"
- p="509.44 583.16"
- Element="55"
- NumHydrogens="0"
-/><n
- id="227"
- p="523.79 579.57"
- Element="55"
- NumHydrogens="0"
-/><b
- id="228"
- B="225"
- E="226"
-/><b
- id="229"
- B="224"
- E="225"
-/><b
- id="230"
- B="222"
- E="223"
- Order="2"
-/><b
- id="231"
- B="222"
- E="224"
-/></fragment><t
- id="80"
- p="480.23 583.50"
- BoundingBox="480.23 574.25 516.35 587.70"
- Z="76"
- LabelJustification="Left"
- LabelLineHeight="auto"
- LineHeight="auto"
- LabelAlignment="Left"
-><s font="3" size="10" color="0" face="1">Cs</s><s font="3" size="10" color="0" face="33">2</s><s font="3" size="10" color="0" face="1">CO</s><s font="3" size="10" color="0" face="33">3</s></t></n></fragment><fragment
- id="85"
- BoundingBox="487.46 594.75 509.12 606.50"
- Z="81"
-><n
- id="84"
- p="491.07 600.07"
- Z="80"
- NodeType="Fragment"
- NeedsClean="yes"
- AS="N"
- AtomID="44"
-><fragment
- id="233"
-><n
- id="234"
- p="485.36 603.66"
- NumHydrogens="1"
-/><n
- id="235"
- p="472.93 596.49"
- Element="8"
- NumHydrogens="0"
-/><n
- id="236"
- p="497.78 596.49"
- Element="7"
- NumHydrogens="0"
-/><n
- id="237"
- p="497.78 582.14"
- NumHydrogens="3"
-/><n
- id="238"
- p="510.21 603.66"
- NumHydrogens="3"
-/><b
- id="239"
- B="236"
- E="237"
-/><b
- id="240"
- B="236"
- E="238"
-/><b
- id="241"
- B="234"
- E="235"
- Order="2"
-/><b
- id="242"
- B="234"
- E="236"
-/></fragment><t
- id="83"
- p="487.46 604"
- BoundingBox="487.46 594.75 509.12 606.50"
- Z="79"
- LabelJustification="Left"
- LabelLineHeight="auto"
- LineHeight="auto"
- LabelAlignment="Left"
-><s font="3" size="10" color="0" face="1">DMF</s></t></n></fragment><fragment
  id="3"
- BoundingBox="307.01 525.09 390.01 617.41"
+ BoundingBox="417.53 494.12 500.53 586.44"
  Z="85"
 ><n
  id="4"
- p="328.71 574.21"
+ p="439.23 543.24"
  Z="86"
  Element="7"
  NumHydrogens="0"
@@ -620,12 +651,12 @@
  AtomNumber="0"
  AtomID="1"
 ><t
- p="325.10 578.13"
- BoundingBox="325.10 569.79 332.32 578.13"
+ p="435.62 547.16"
+ BoundingBox="435.62 538.82 442.85 547.16"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">N</s></t></n><n
  id="89"
- p="328.64 559.74"
+ p="439.16 528.77"
  Z="87"
  Geometry="Tetrahedral"
  AS="S"
@@ -634,35 +665,35 @@
  AtomID="2"
 /><n
  id="90"
- p="315.17 578.53"
+ p="425.69 547.56"
  Z="88"
  AS="N"
  AtomNumber="2"
  AtomID="3"
 /><n
  id="91"
- p="341.77 553.62"
+ p="452.30 522.65"
  Z="89"
  AS="N"
  AtomNumber="3"
  AtomID="4"
 /><n
  id="92"
- p="315.15 555.37"
+ p="425.67 524.40"
  Z="90"
  AS="N"
  AtomNumber="4"
  AtomID="5"
 /><n
  id="93"
- p="307.71 567.25"
+ p="418.24 536.28"
  Z="91"
  AS="N"
  AtomNumber="5"
  AtomID="6"
 /><n
  id="94"
- p="354.25 560.81"
+ p="464.77 529.84"
  Z="92"
  Element="8"
  NumHydrogens="0"
@@ -671,12 +702,12 @@
  AtomNumber="6"
  AtomID="7"
 ><t
- p="350.36 564.74"
- BoundingBox="350.36 556.28 358.14 564.84"
+ p="460.88 533.77"
+ BoundingBox="460.88 525.31 468.66 533.87"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><n
  id="95"
- p="341.77 540.66"
+ p="452.30 509.69"
  Z="93"
  Element="8"
  NumHydrogens="0"
@@ -685,12 +716,12 @@
  AtomNumber="7"
  AtomID="8"
 ><t
- p="337.88 544.59"
- BoundingBox="337.88 536.13 345.66 544.69"
+ p="448.41 513.62"
+ BoundingBox="448.41 505.16 456.19 513.72"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><n
  id="96"
- p="366.72 553.62"
+ p="477.25 522.65"
  Z="94"
  Element="7"
  NumHydrogens="0"
@@ -699,40 +730,40 @@
  AtomNumber="8"
  AtomID="9"
 ><t
- p="363.11 557.54"
- BoundingBox="363.11 549.20 370.33 557.54"
+ p="473.63 526.57"
+ BoundingBox="473.63 518.23 480.86 526.57"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">N</s></t></n><n
  id="97"
- p="379.68 559.37"
+ p="490.20 528.40"
  Z="95"
  AS="N"
  AtomNumber="9"
  AtomID="10"
 /><n
  id="98"
- p="389.27 548.82"
+ p="499.80 517.85"
  Z="96"
  AS="N"
  AtomNumber="10"
  AtomID="11"
 /><n
  id="99"
- p="382.08 536.34"
+ p="492.60 505.37"
  Z="97"
  AS="N"
  AtomNumber="11"
  AtomID="12"
 /><n
  id="100"
- p="368.16 539.22"
+ p="478.69 508.25"
  Z="98"
  AS="N"
  AtomNumber="12"
  AtomID="13"
 /><n
  id="101"
- p="357.12 529.63"
+ p="467.65 498.66"
  Z="99"
  Element="8"
  NumHydrogens="0"
@@ -741,12 +772,12 @@
  AtomNumber="13"
  AtomID="14"
 ><t
- p="353.24 533.55"
- BoundingBox="353.24 525.09 361.01 533.65"
+ p="463.76 502.58"
+ BoundingBox="463.76 494.12 471.54 502.68"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><n
  id="102"
- p="382.56 573.77"
+ p="493.08 542.80"
  Z="100"
  Element="8"
  NumHydrogens="0"
@@ -755,19 +786,19 @@
  AtomNumber="14"
  AtomID="15"
 ><t
- p="378.67 577.69"
- BoundingBox="378.67 569.23 386.45 577.79"
+ p="489.19 546.72"
+ BoundingBox="489.19 538.27 496.97 546.82"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><n
  id="103"
- p="341.18 581.41"
+ p="451.70 550.44"
  Z="101"
  AS="N"
  AtomNumber="15"
  AtomID="16"
 /><n
  id="104"
- p="341.18 595.81"
+ p="451.70 564.84"
  Z="102"
  Element="8"
  NumHydrogens="0"
@@ -776,19 +807,19 @@
  AtomNumber="16"
  AtomID="17"
 ><t
- p="337.29 599.73"
- BoundingBox="337.29 591.27 345.07 599.83"
+ p="447.82 568.76"
+ BoundingBox="447.82 560.30 455.59 568.86"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><n
  id="105"
- p="353.65 603.01"
+ p="464.18 572.04"
  Z="103"
  AS="N"
  AtomNumber="17"
  AtomID="18"
 /><n
  id="106"
- p="353.65 574.21"
+ p="464.18 543.24"
  Z="104"
  Element="8"
  NumHydrogens="0"
@@ -797,26 +828,26 @@
  AtomNumber="18"
  AtomID="19"
 ><t
- p="349.76 578.13"
- BoundingBox="349.76 569.67 357.54 578.23"
+ p="460.29 547.16"
+ BoundingBox="460.29 538.70 468.06 547.26"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><n
  id="107"
- p="353.65 617.41"
+ p="464.18 586.44"
  Z="105"
  AS="N"
  AtomNumber="19"
  AtomID="20"
 /><n
  id="108"
- p="366.12 595.81"
+ p="476.65 564.84"
  Z="106"
  AS="N"
  AtomNumber="20"
  AtomID="21"
 /><n
  id="109"
- p="366.12 610.21"
+ p="476.65 579.24"
  Z="107"
  AS="N"
  AtomNumber="21"
@@ -989,11 +1020,11 @@
  BS="N"
 /></fragment><fragment
  id="121"
- BoundingBox="579.89 543.65 770.71 630.94"
+ BoundingBox="669.41 496.64 860.23 583.92"
  Z="176"
 ><n
  id="122"
- p="590.72 594.37"
+ p="680.24 547.36"
  Z="174"
  Element="7"
  NumHydrogens="1"
@@ -1001,62 +1032,62 @@
  AS="N"
  AtomID="45"
 ><t
- p="594.33 598.30"
- BoundingBox="579.89 589.96 594.33 598.30"
+ p="683.86 551.28"
+ BoundingBox="669.41 542.94 683.86 551.28"
  LabelJustification="Right"
  Justification="Right"
  LabelAlignment="Right"
 ><s font="3" size="10" color="0" face="97">NH</s></t></n><n
  id="123"
- p="599.15 605.98"
+ p="688.68 558.97"
  Z="175"
  AS="N"
  AtomID="46"
 /><n
  id="124"
- p="612.80 601.55"
+ p="702.33 554.53"
  Z="177"
  AS="N"
  AtomID="47"
 /><n
  id="125"
- p="612.80 587.20"
+ p="702.33 540.18"
  Z="178"
  AS="N"
  AtomID="48"
 /><n
  id="126"
- p="599.15 582.76"
+ p="688.68 535.75"
  Z="179"
  AS="N"
  AtomID="49"
 /><n
  id="127"
- p="625.23 608.72"
+ p="714.75 561.71"
  Z="185"
  AS="N"
  AtomID="50"
 /><n
  id="128"
- p="637.66 601.55"
+ p="727.18 554.53"
  Z="186"
  AS="N"
  AtomID="51"
 /><n
  id="129"
- p="637.66 587.20"
+ p="727.18 540.18"
  Z="187"
  AS="N"
  AtomID="52"
 /><n
  id="130"
- p="625.23 580.02"
+ p="714.75 533.01"
  Z="188"
  AS="N"
  AtomID="53"
 /><n
  id="131"
- p="594.72 569.12"
+ p="684.25 522.10"
  Z="194"
  Element="8"
  NumHydrogens="0"
@@ -1064,48 +1095,48 @@
  AS="N"
  AtomID="54"
 ><t
- p="590.83 573.04"
- BoundingBox="590.83 564.58 598.61 573.14"
+ p="680.36 526.03"
+ BoundingBox="680.36 517.57 688.13 526.13"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><n
  id="132"
- p="650.08 608.72"
+ p="739.61 561.71"
  Z="196"
  AS="N"
  AtomID="55"
 /><n
  id="133"
- p="650.08 623.07"
+ p="739.61 576.06"
  Z="198"
  AS="N"
  AtomID="56"
 /><n
  id="134"
- p="662.51 630.25"
+ p="752.04 583.23"
  Z="199"
  AS="N"
  AtomID="57"
 /><n
  id="135"
- p="674.94 623.07"
+ p="764.46 576.06"
  Z="200"
  AS="N"
  AtomID="58"
 /><n
  id="136"
- p="674.94 608.72"
+ p="764.46 561.71"
  Z="201"
  AS="N"
  AtomID="59"
 /><n
  id="137"
- p="662.51 601.55"
+ p="752.04 554.53"
  Z="202"
  AS="N"
  AtomID="60"
 /><n
  id="138"
- p="687.37 601.55"
+ p="776.89 554.53"
  Z="209"
  Element="16"
  NumHydrogens="0"
@@ -1113,12 +1144,12 @@
  AS="N"
  AtomID="61"
 ><t
- p="684.03 605.47"
- BoundingBox="684.03 597.02 690.70 605.62"
+ p="773.56 558.46"
+ BoundingBox="773.56 550 780.23 558.61"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">S</s></t></n><n
  id="139"
- p="680.19 589.12"
+ p="769.72 542.11"
  Z="211"
  Element="8"
  NumHydrogens="0"
@@ -1126,12 +1157,12 @@
  AS="N"
  AtomID="62"
 ><t
- p="676.30 593.05"
- BoundingBox="676.30 584.59 684.08 593.15"
+ p="765.83 546.03"
+ BoundingBox="765.83 537.57 773.61 546.13"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><n
  id="140"
- p="699.79 594.37"
+ p="789.32 547.36"
  Z="213"
  Element="7"
  NumHydrogens="1"
@@ -1139,14 +1170,14 @@
  AS="N"
  AtomID="63"
 ><t
- p="696.18 589.96"
- BoundingBox="696.18 581.62 703.41 598.30"
+ p="785.71 542.94"
+ BoundingBox="785.71 534.60 792.93 551.28"
  LabelJustification="Left"
  LabelAlignment="Above"
  LineStarts="2 4"
 ><s font="3" size="10" color="0" face="97">NH</s></t></n><n
  id="141"
- p="694.54 613.98"
+ p="784.07 566.96"
  Z="215"
  Element="8"
  NumHydrogens="0"
@@ -1154,12 +1185,12 @@
  AS="N"
  AtomID="64"
 ><t
- p="690.65 617.90"
- BoundingBox="690.65 609.44 698.43 618"
+ p="780.18 570.89"
+ BoundingBox="780.18 562.43 787.96 570.99"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><n
  id="165"
- p="750.19 595.71"
+ p="839.71 548.70"
  Z="218"
  Element="7"
  NumHydrogens="0"
@@ -1168,12 +1199,12 @@
  AtomNumber="0"
  AtomID="65"
 ><t
- p="746.58 599.64"
- BoundingBox="746.58 591.30 753.80 599.64"
+ p="836.10 552.62"
+ BoundingBox="836.10 544.28 843.32 552.62"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">N</s></t></n><n
  id="166"
- p="737.08 601.55"
+ p="826.60 554.53"
  Z="219"
  Geometry="Tetrahedral"
  AS="S"
@@ -1182,35 +1213,35 @@
  AtomID="66"
 /><n
  id="167"
- p="759.79 606.38"
+ p="849.31 559.36"
  Z="220"
  AS="N"
  AtomNumber="2"
  AtomID="67"
 /><n
  id="168"
- p="724.65 594.37"
+ p="814.17 547.36"
  Z="221"
  AS="N"
  AtomNumber="3"
  AtomID="68"
 /><n
  id="169"
- p="738.58 615.82"
+ p="828.10 568.81"
  Z="222"
  AS="N"
  AtomNumber="4"
  AtomID="69"
 /><n
  id="170"
- p="752.61 618.80"
+ p="842.14 571.79"
  Z="223"
  AS="N"
  AtomNumber="5"
  AtomID="70"
 /><n
  id="171"
- p="712.22 601.55"
+ p="801.75 554.53"
  Z="224"
  Element="8"
  NumHydrogens="0"
@@ -1219,13 +1250,13 @@
  AtomNumber="6"
  AtomID="71"
 ><t
- p="708.33 605.47"
- BoundingBox="708.33 597.02 716.11 605.57"
+ p="797.86 558.46"
+ BoundingBox="797.86 550 805.64 558.56"
  LabelJustification="Left"
  LabelAlignment="Below"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><n
  id="172"
- p="724.65 580.02"
+ p="814.17 533.01"
  Z="225"
  Element="8"
  NumHydrogens="0"
@@ -1234,19 +1265,19 @@
  AtomNumber="7"
  AtomID="72"
 ><t
- p="720.76 583.95"
- BoundingBox="720.76 575.49 728.54 584.05"
+ p="810.29 536.93"
+ BoundingBox="810.29 528.48 818.06 537.03"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><n
  id="180"
- p="753.17 581.68"
+ p="842.69 534.66"
  Z="233"
  AS="N"
  AtomNumber="15"
  AtomID="73"
 /><n
  id="181"
- p="743.02 571.53"
+ p="832.55 524.51"
  Z="234"
  Element="8"
  NumHydrogens="0"
@@ -1255,19 +1286,19 @@
  AtomNumber="16"
  AtomID="74"
 ><t
- p="739.13 575.45"
- BoundingBox="739.13 567 746.91 575.55"
+ p="828.66 528.44"
+ BoundingBox="828.66 519.98 836.44 528.54"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><n
  id="182"
- p="746.74 557.67"
+ p="836.26 510.65"
  Z="235"
  AS="N"
  AtomNumber="17"
  AtomID="75"
 /><n
  id="183"
- p="766.82 577.24"
+ p="856.34 530.23"
  Z="236"
  Element="8"
  NumHydrogens="0"
@@ -1276,26 +1307,26 @@
  AtomNumber="18"
  AtomID="76"
 ><t
- p="762.93 581.17"
- BoundingBox="762.93 572.71 770.71 581.27"
+ p="852.45 534.15"
+ BoundingBox="852.45 525.69 860.23 534.25"
  LabelJustification="Left"
 ><s font="3" size="10" color="0" face="97">O</s></t></n><n
  id="184"
- p="736.59 547.52"
+ p="826.11 500.51"
  Z="237"
  AS="N"
  AtomNumber="19"
  AtomID="77"
 /><n
  id="185"
- p="760.60 553.95"
+ p="850.12 506.94"
  Z="238"
  AS="N"
  AtomNumber="20"
  AtomID="78"
 /><n
  id="186"
- p="750.45 543.81"
+ p="839.98 496.79"
  Z="239"
  AS="N"
  AtomNumber="21"
@@ -1586,54 +1617,28 @@
  BS="N"
 /></fragment><t
  id="216"
- p="675.30 647.69"
- BoundingBox="629.71 638.44 720.88 650.19"
+ p="764.82 600.67"
+ BoundingBox="719.24 591.42 810.41 603.17"
  Z="269"
  InterpretChemically="no"
  CaptionJustification="Center"
  Justification="Center"
  LineHeight="auto"
-><s font="3" size="10" color="0" face="1">Exact Mass: 501.16</s></t><graphic
- id="79"
- SupersededBy="244"
- BoundingBox="562.54 591.50 434.04 591.50"
- Z="75"
- GraphicType="Line"
- ArrowType="FullHead"
- HeadSize="2250"
-/><scheme
- id="329"
+><s font="3" size="10" color="0" face="1">Exact Mass: 501.16</s></t></group><scheme
+ id="331"
 ><step
- id="330"
- ReactionStepReactants="8 3"
- ReactionStepProducts="121"
+ id="332"
  ReactionStepArrows="79"
- ReactionStepObjectsAboveArrow="82"
- ReactionStepObjectsBelowArrow="85"
+ ReactionStepObjectsBelowArrow="220"
 /></scheme><chemicalproperty
  id="217"
  ChemicalPropertyDisplayID="216"
  ChemicalPropertyIsActive="yes"
  ChemicalPropertyType="3"
  BasisObjects="122 123 121 124 125 126 142 143 144 145 146 127 128 129 130 147 148 149 150 151 131 152 132 153 133 134 135 136 137 154 155 156 157 158 159 138 160 139 161 140 162 141 163 165 166 167 168 169 170 171 172 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 203 204 205 206 207 208 209 215"
-/><arrow
- id="244"
- BoundingBox="434.04 587.62 562.54 594.88"
- Z="75"
- FillType="None"
- ArrowheadHead="Full"
- ArrowheadType="Solid"
- HeadSize="2250"
- ArrowheadCenterSize="1969"
- ArrowheadWidth="563"
- Head3D="562.54 591.50 0"
- Tail3D="434.04 591.50 0"
- Center3D="785.79 887.25 0"
- MajorAxisEnd3D="914.29 887.25 0"
- MinorAxisEnd3D="785.79 1015.75 0"
 /><stoichiometrygrid
  id="218"
- p="236.53 660.69"
+ p="285.50 617.69"
  Z="270"
 ><sgcomponent
  id="1"
@@ -1647,12 +1652,12 @@
  SGPropertyType="1"
  IsReadOnly="yes"
 ><objecttag
- id="245"
+ id="247"
  TagType="String"
  Name="65792"
 ><t
- p="244.03 686.94"
- BoundingBox="244.03 677.99 280.70 689.49"
+ p="293 643.94"
+ BoundingBox="293 634.99 329.68 646.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Formula</s></t></objecttag></sgdatum><sgdatum
  id="131328"
@@ -1661,12 +1666,12 @@
  SGPropertyType="2"
  IsReadOnly="yes"
 ><objecttag
- id="246"
+ id="248"
  TagType="String"
  Name="131328"
 ><t
- p="244.03 701.94"
- BoundingBox="244.03 692.99 261.79 704.49"
+ p="293 658.94"
+ BoundingBox="293 649.99 310.77 661.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">MW</s></t></objecttag></sgdatum><sgdatum
  id="327936"
@@ -1677,7 +1682,7 @@
  IsHidden="yes"
  Visible="no"
 ><objecttag
- id="247"
+ id="249"
  TagType="String"
  Visible="no"
  Name="327936"
@@ -1694,12 +1699,12 @@
  SGPropertyType="4"
  IsReadOnly="yes"
 ><objecttag
- id="248"
+ id="250"
  TagType="String"
  Name="262400"
 ><t
- p="244.03 716.94"
- BoundingBox="244.03 707.99 284.05 719.49"
+ p="293 673.94"
+ BoundingBox="293 664.99 333.02 676.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Limiting?</s></t></objecttag></sgdatum><sgdatum
  id="393472"
@@ -1708,12 +1713,12 @@
  SGPropertyType="6"
  IsReadOnly="yes"
 ><objecttag
- id="249"
+ id="251"
  TagType="String"
  Name="393472"
 ><t
- p="244.03 731.94"
- BoundingBox="244.03 722.99 295.73 734.49"
+ p="293 688.94"
+ BoundingBox="293 679.99 344.70 691.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Equivalents</s></t></objecttag></sgdatum><sgdatum
  id="459008"
@@ -1722,12 +1727,12 @@
  SGPropertyType="7"
  IsReadOnly="yes"
 ><objecttag
- id="250"
+ id="252"
  TagType="String"
  Name="459008"
 ><t
- p="244.03 746.94"
- BoundingBox="244.03 737.99 304.60 749.49"
+ p="293 703.94"
+ BoundingBox="293 694.99 353.58 706.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Sample Mass</s></t></objecttag></sgdatum><sgdatum
  id="524544"
@@ -1736,12 +1741,12 @@
  SGPropertyType="8"
  IsReadOnly="yes"
 ><objecttag
- id="251"
+ id="253"
  TagType="String"
  Name="524544"
 ><t
- p="244.03 761.94"
- BoundingBox="244.03 752.99 284.04 764.49"
+ p="293 718.94"
+ BoundingBox="293 709.99 333.02 721.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">%Weight</s></t></objecttag></sgdatum><sgdatum
  id="655616"
@@ -1750,12 +1755,12 @@
  SGPropertyType="10"
  IsReadOnly="yes"
 ><objecttag
- id="252"
+ id="254"
  TagType="String"
  Name="655616"
 ><t
- p="244.03 776.94"
- BoundingBox="244.03 767.99 279.03 779.49"
+ p="293 733.94"
+ BoundingBox="293 724.99 328.01 736.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Molarity</s></t></objecttag></sgdatum><sgdatum
  id="786688"
@@ -1764,12 +1769,12 @@
  SGPropertyType="12"
  IsReadOnly="yes"
 ><objecttag
- id="253"
+ id="255"
  TagType="String"
  Name="786688"
 ><t
- p="244.03 791.94"
- BoundingBox="244.03 782.99 277.37 794.49"
+ p="293 748.94"
+ BoundingBox="293 739.99 326.35 751.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Density</s></t></objecttag></sgdatum><sgdatum
  id="590080"
@@ -1778,12 +1783,12 @@
  SGPropertyType="9"
  IsReadOnly="yes"
 ><objecttag
- id="254"
+ id="256"
  TagType="String"
  Name="590080"
 ><t
- p="244.03 806.94"
- BoundingBox="244.03 797.99 277.93 809.49"
+ p="293 763.94"
+ BoundingBox="293 754.99 326.91 766.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Volume</s></t></objecttag></sgdatum><sgdatum
  id="852224"
@@ -1792,12 +1797,12 @@
  SGPropertyType="13"
  IsReadOnly="yes"
 ><objecttag
- id="255"
+ id="257"
  TagType="String"
  Name="852224"
 ><t
- p="244.03 821.94"
- BoundingBox="244.03 812.99 313.50 824.49"
+ p="293 778.94"
+ BoundingBox="293 769.99 362.48 781.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Reactant Moles</s></t></objecttag></sgdatum><sgdatum
  id="917760"
@@ -1806,12 +1811,12 @@
  SGPropertyType="14"
  IsReadOnly="yes"
 ><objecttag
- id="256"
+ id="258"
  TagType="String"
  Name="917760"
 ><t
- p="244.03 836.94"
- BoundingBox="244.03 827.99 310.72 839.49"
+ p="293 793.94"
+ BoundingBox="293 784.99 359.70 796.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Reactant Mass</s></t></objecttag></sgdatum></sgcomponent><sgcomponent
  id="2"
@@ -1824,12 +1829,12 @@
  SGPropertyType="1"
  IsReadOnly="yes"
 ><objecttag
- id="257"
+ id="259"
  TagType="String"
  Name="66048"
 ><t
- p="608.63 686.94"
- BoundingBox="608.63 677.99 645.30 689.49"
+ p="657.60 643.94"
+ BoundingBox="657.60 634.99 694.28 646.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Formula</s></t></objecttag></sgdatum><sgdatum
  id="131584"
@@ -1838,12 +1843,12 @@
  SGPropertyType="2"
  IsReadOnly="yes"
 ><objecttag
- id="258"
+ id="260"
  TagType="String"
  Name="131584"
 ><t
- p="608.63 701.94"
- BoundingBox="608.63 692.99 626.39 704.49"
+ p="657.60 658.94"
+ BoundingBox="657.60 649.99 675.37 661.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">MW</s></t></objecttag></sgdatum><sgdatum
  id="328192"
@@ -1854,7 +1859,7 @@
  IsHidden="yes"
  Visible="no"
 ><objecttag
- id="259"
+ id="261"
  TagType="String"
  Visible="no"
  Name="328192"
@@ -1871,12 +1876,12 @@
  SGPropertyType="6"
  IsReadOnly="yes"
 ><objecttag
- id="260"
+ id="262"
  TagType="String"
  Name="393728"
 ><t
- p="608.63 716.94"
- BoundingBox="608.63 707.99 660.33 719.49"
+ p="657.60 673.94"
+ BoundingBox="657.60 664.99 709.30 676.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Equivalents</s></t></objecttag></sgdatum><sgdatum
  id="1442304"
@@ -1885,12 +1890,12 @@
  SGPropertyType="22"
  IsReadOnly="yes"
 ><objecttag
- id="261"
+ id="263"
  TagType="String"
  Name="1442304"
 ><t
- p="608.63 731.94"
- BoundingBox="608.63 722.99 668.10 734.49"
+ p="657.60 688.94"
+ BoundingBox="657.60 679.99 717.07 691.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">%Completion</s></t></objecttag></sgdatum><sgdatum
  id="983552"
@@ -1899,12 +1904,12 @@
  SGPropertyType="15"
  IsReadOnly="yes"
 ><objecttag
- id="262"
+ id="264"
  TagType="String"
  Name="983552"
 ><t
- p="608.63 746.94"
- BoundingBox="608.63 737.99 676.99 749.49"
+ p="657.60 703.94"
+ BoundingBox="657.60 694.99 725.97 706.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Expected Mass</s></t></objecttag></sgdatum><sgdatum
  id="1049088"
@@ -1913,12 +1918,12 @@
  SGPropertyType="16"
  IsReadOnly="yes"
 ><objecttag
- id="263"
+ id="265"
  TagType="String"
  Name="1049088"
 ><t
- p="608.63 761.94"
- BoundingBox="608.63 752.99 679.77 764.49"
+ p="657.60 718.94"
+ BoundingBox="657.60 709.99 728.75 721.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Expected Moles</s></t></objecttag></sgdatum><sgdatum
  id="1114624"
@@ -1927,12 +1932,12 @@
  SGPropertyType="17"
  IsReadOnly="yes"
 ><objecttag
- id="264"
+ id="266"
  TagType="String"
  Name="1114624"
 ><t
- p="608.63 776.94"
- BoundingBox="608.63 767.99 679.76 779.49"
+ p="657.60 733.94"
+ BoundingBox="657.60 724.99 728.74 736.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Measured Mass</s></t></objecttag></sgdatum><sgdatum
  id="1180160"
@@ -1941,12 +1946,12 @@
  SGPropertyType="18"
  IsReadOnly="yes"
 ><objecttag
- id="265"
+ id="267"
  TagType="String"
  Name="1180160"
 ><t
- p="608.63 791.94"
- BoundingBox="608.63 782.99 634.19 794.49"
+ p="657.60 748.94"
+ BoundingBox="657.60 739.99 683.16 751.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Purity</s></t></objecttag></sgdatum><sgdatum
  id="1245696"
@@ -1955,12 +1960,12 @@
  SGPropertyType="19"
  IsReadOnly="yes"
 ><objecttag
- id="266"
+ id="268"
  TagType="String"
  Name="1245696"
 ><t
- p="608.63 806.94"
- BoundingBox="608.63 797.99 669.76 809.49"
+ p="657.60 763.94"
+ BoundingBox="657.60 754.99 718.73 766.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Product Mass</s></t></objecttag></sgdatum><sgdatum
  id="1311232"
@@ -1969,12 +1974,12 @@
  SGPropertyType="20"
  IsReadOnly="yes"
 ><objecttag
- id="267"
+ id="269"
  TagType="String"
  Name="1311232"
 ><t
- p="608.63 821.94"
- BoundingBox="608.63 812.99 672.54 824.49"
+ p="657.60 778.94"
+ BoundingBox="657.60 769.99 721.52 781.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">Product Moles</s></t></objecttag></sgdatum><sgdatum
  id="1376768"
@@ -1983,12 +1988,12 @@
  SGPropertyType="21"
  IsReadOnly="yes"
 ><objecttag
- id="268"
+ id="270"
  TagType="String"
  Name="1376768"
 ><t
- p="608.63 836.94"
- BoundingBox="608.63 827.99 639.75 839.49"
+ p="657.60 793.94"
+ BoundingBox="657.60 784.99 688.73 796.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">%Yield</s></t></objecttag></sgdatum></sgcomponent><sgcomponent
  id="3"
@@ -2002,12 +2007,12 @@
  SGPropertyType="1"
  IsReadOnly="yes"
 ><objecttag
- id="269"
+ id="271"
  TagType="String"
  Name="66304"
 ><t
- p="328.48 686.94"
- BoundingBox="328.48 677.69 389.62 689.44"
+ p="377.45 643.94"
+ BoundingBox="377.45 634.69 438.59 646.44"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="97">C14H12N2O3S</s></t></objecttag></sgdatum><sgdatum
  id="131840"
@@ -2016,12 +2021,12 @@
  SGPropertyType="2"
  IsReadOnly="yes"
 ><objecttag
- id="270"
+ id="272"
  TagType="String"
  Name="131840"
 ><t
- p="328.48 701.94"
- BoundingBox="328.48 692.99 359.06 704.49"
+ p="377.45 658.94"
+ BoundingBox="377.45 649.99 408.04 661.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">288.32</s></t></objecttag></sgdatum><sgdatum
  id="328448"
@@ -2032,7 +2037,7 @@
  IsHidden="yes"
  Visible="no"
 ><objecttag
- id="271"
+ id="273"
  TagType="String"
  Visible="no"
  Name="328448"
@@ -2050,12 +2055,12 @@
  IsReadOnly="yes"
  IsEdited="yes"
 ><objecttag
- id="272"
+ id="274"
  TagType="String"
  Name="262912"
 ><t
- p="328.48 716.94"
- BoundingBox="328.48 707.69 346.27 719.44"
+ p="377.45 673.94"
+ BoundingBox="377.45 664.69 395.24 676.44"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="99">Yes</s></t></objecttag></sgdatum><sgdatum
  id="393984"
@@ -2064,12 +2069,12 @@
  SGPropertyType="6"
  IsEdited="yes"
 ><objecttag
- id="273"
+ id="275"
  TagType="String"
  Name="393984"
 ><t
- p="328.48 731.94"
- BoundingBox="328.48 722.69 347.94 734.44"
+ p="377.45 688.94"
+ BoundingBox="377.45 679.69 396.91 691.44"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="99">1.00</s></t></objecttag></sgdatum><sgdatum
  id="459520"
@@ -2078,12 +2083,12 @@
  SGPropertyType="7"
  IsEdited="yes"
 ><objecttag
- id="274"
+ id="276"
  TagType="String"
  Name="459520"
 ><t
- p="328.48 746.94"
- BoundingBox="328.48 737.69 364.75 749.44"
+ p="377.45 703.94"
+ BoundingBox="377.45 694.69 413.73 706.44"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="99">57.66</s><s font="3" size="7.5" color="0" face="99">mg</s></t></objecttag></sgdatum><sgdatum
  id="525056"
@@ -2091,13 +2096,13 @@
  SGDataValue="1"
  SGPropertyType="8"
 ><objecttag
- id="275"
+ id="277"
  TagType="String"
  Visible="no"
  Name="525056"
 ><t
- p="328.48 761.94"
- BoundingBox="328.48 752.99 365.73 764.49"
+ p="377.45 718.94"
+ BoundingBox="377.45 709.99 414.71 721.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2107,13 +2112,13 @@
  SGDataValue="0"
  SGPropertyType="10"
 ><objecttag
- id="276"
+ id="278"
  TagType="String"
  Visible="no"
  Name="656128"
 ><t
- p="328.48 776.94"
- BoundingBox="328.48 767.99 354.19 779.49"
+ p="377.45 733.94"
+ BoundingBox="377.45 724.99 403.16 736.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2123,13 +2128,13 @@
  SGDataValue="0"
  SGPropertyType="12"
 ><objecttag
- id="277"
+ id="279"
  TagType="String"
  Visible="no"
  Name="787200"
 ><t
- p="328.48 791.94"
- BoundingBox="328.48 782.99 364.61 794.49"
+ p="377.45 748.94"
+ BoundingBox="377.45 739.99 413.59 751.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2139,13 +2144,13 @@
  SGDataValue="0"
  SGPropertyType="9"
 ><objecttag
- id="278"
+ id="280"
  TagType="String"
  Visible="no"
  Name="590592"
 ><t
- p="328.48 806.94"
- BoundingBox="328.48 797.99 358.36 809.49"
+ p="377.45 763.94"
+ BoundingBox="377.45 754.99 407.33 766.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2155,12 +2160,12 @@
  SGDataValue="0.000199999"
  SGPropertyType="13"
 ><objecttag
- id="279"
+ id="281"
  TagType="String"
  Name="852736"
 ><t
- p="328.48 821.94"
- BoundingBox="328.48 812.99 375.47 824.49"
+ p="377.45 778.94"
+ BoundingBox="377.45 769.99 424.44 781.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">200.00</s><s font="3" size="7.5" color="0" face="96">µmol</s></t></objecttag></sgdatum><sgdatum
  id="918272"
@@ -2168,12 +2173,12 @@
  SGDataValue="0.057664"
  SGPropertyType="14"
 ><objecttag
- id="280"
+ id="282"
  TagType="String"
  Name="918272"
 ><t
- p="328.48 836.94"
- BoundingBox="328.48 827.99 363.92 839.49"
+ p="377.45 793.94"
+ BoundingBox="377.45 784.99 412.89 796.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">57.66</s><s font="3" size="7.5" color="0" face="96">mg</s></t></objecttag></sgdatum></sgcomponent><sgcomponent
  id="4"
@@ -2187,12 +2192,12 @@
  SGPropertyType="1"
  IsReadOnly="yes"
 ><objecttag
- id="281"
+ id="283"
  TagType="String"
  Name="66560"
 ><t
- p="404.58 686.94"
- BoundingBox="404.58 677.69 459.05 689.44"
+ p="453.55 643.94"
+ BoundingBox="453.55 634.69 508.02 646.44"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="97">C14H20N2O6</s></t></objecttag></sgdatum><sgdatum
  id="132096"
@@ -2201,12 +2206,12 @@
  SGPropertyType="2"
  IsReadOnly="yes"
 ><objecttag
- id="282"
+ id="284"
  TagType="String"
  Name="132096"
 ><t
- p="404.58 701.94"
- BoundingBox="404.58 692.99 435.16 704.49"
+ p="453.55 658.94"
+ BoundingBox="453.55 649.99 484.14 661.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">312.32</s></t></objecttag></sgdatum><sgdatum
  id="328704"
@@ -2217,7 +2222,7 @@
  IsHidden="yes"
  Visible="no"
 ><objecttag
- id="283"
+ id="285"
  TagType="String"
  Visible="no"
  Name="328704"
@@ -2234,12 +2239,12 @@
  SGPropertyType="4"
  IsReadOnly="yes"
 ><objecttag
- id="284"
+ id="286"
  TagType="String"
  Name="263168"
 ><t
- p="404.58 716.94"
- BoundingBox="404.58 707.99 417.36 719.49"
+ p="453.55 673.94"
+ BoundingBox="453.55 664.99 466.33 676.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">No</s></t></objecttag></sgdatum><sgdatum
  id="394240"
@@ -2248,12 +2253,12 @@
  SGPropertyType="6"
  IsEdited="yes"
 ><objecttag
- id="285"
+ id="287"
  TagType="String"
  Name="394240"
 ><t
- p="404.58 731.94"
- BoundingBox="404.58 722.69 424.04 734.44"
+ p="453.55 688.94"
+ BoundingBox="453.55 679.69 473.01 691.44"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="99">1.50</s></t></objecttag></sgdatum><sgdatum
  id="459776"
@@ -2261,12 +2266,12 @@
  SGDataValue="0.0936963"
  SGPropertyType="7"
 ><objecttag
- id="286"
+ id="288"
  TagType="String"
  Name="459776"
 ><t
- p="404.58 746.94"
- BoundingBox="404.58 737.99 440.02 749.49"
+ p="453.55 703.94"
+ BoundingBox="453.55 694.99 488.99 706.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">93.70</s><s font="3" size="7.5" color="0" face="96">mg</s></t></objecttag></sgdatum><sgdatum
  id="525312"
@@ -2274,13 +2279,13 @@
  SGDataValue="1"
  SGPropertyType="8"
 ><objecttag
- id="287"
+ id="289"
  TagType="String"
  Visible="no"
  Name="525312"
 ><t
- p="404.58 761.94"
- BoundingBox="404.58 752.99 441.83 764.49"
+ p="453.55 718.94"
+ BoundingBox="453.55 709.99 490.81 721.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2290,13 +2295,13 @@
  SGDataValue="0"
  SGPropertyType="10"
 ><objecttag
- id="288"
+ id="290"
  TagType="String"
  Visible="no"
  Name="656384"
 ><t
- p="404.58 776.94"
- BoundingBox="404.58 767.99 430.29 779.49"
+ p="453.55 733.94"
+ BoundingBox="453.55 724.99 479.26 736.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2306,13 +2311,13 @@
  SGDataValue="0"
  SGPropertyType="12"
 ><objecttag
- id="289"
+ id="291"
  TagType="String"
  Visible="no"
  Name="787456"
 ><t
- p="404.58 791.94"
- BoundingBox="404.58 782.99 440.71 794.49"
+ p="453.55 748.94"
+ BoundingBox="453.55 739.99 489.69 751.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2322,13 +2327,13 @@
  SGDataValue="0"
  SGPropertyType="9"
 ><objecttag
- id="290"
+ id="292"
  TagType="String"
  Visible="no"
  Name="590848"
 ><t
- p="404.58 806.94"
- BoundingBox="404.58 797.99 434.46 809.49"
+ p="453.55 763.94"
+ BoundingBox="453.55 754.99 483.43 766.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2338,12 +2343,12 @@
  SGDataValue="0.000299999"
  SGPropertyType="13"
 ><objecttag
- id="291"
+ id="293"
  TagType="String"
  Name="852992"
 ><t
- p="404.58 821.94"
- BoundingBox="404.58 812.99 451.57 824.49"
+ p="453.55 778.94"
+ BoundingBox="453.55 769.99 500.54 781.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">300.00</s><s font="3" size="7.5" color="0" face="96">µmol</s></t></objecttag></sgdatum><sgdatum
  id="918528"
@@ -2351,12 +2356,12 @@
  SGDataValue="0.0936963"
  SGPropertyType="14"
 ><objecttag
- id="292"
+ id="294"
  TagType="String"
  Name="918528"
 ><t
- p="404.58 836.94"
- BoundingBox="404.58 827.99 440.02 839.49"
+ p="453.55 793.94"
+ BoundingBox="453.55 784.99 488.99 796.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">93.70</s><s font="3" size="7.5" color="0" face="96">mg</s></t></objecttag></sgdatum></sgcomponent><sgcomponent
  id="5"
@@ -2370,12 +2375,12 @@
  SGPropertyType="1"
  IsReadOnly="yes"
 ><objecttag
- id="293"
+ id="295"
  TagType="String"
  Name="66816"
 ><t
- p="474.03 686.94"
- BoundingBox="474.03 677.69 510.15 689.44"
+ p="523 643.94"
+ BoundingBox="523 634.69 559.13 646.44"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="97">CCs2O3</s></t></objecttag></sgdatum><sgdatum
  id="132352"
@@ -2384,12 +2389,12 @@
  SGPropertyType="2"
  IsReadOnly="yes"
 ><objecttag
- id="294"
+ id="296"
  TagType="String"
  Name="132352"
 ><t
- p="474.03 701.94"
- BoundingBox="474.03 692.99 504.61 704.49"
+ p="523 658.94"
+ BoundingBox="523 649.99 553.59 661.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">325.82</s></t></objecttag></sgdatum><sgdatum
  id="328960"
@@ -2400,7 +2405,7 @@
  IsHidden="yes"
  Visible="no"
 ><objecttag
- id="295"
+ id="297"
  TagType="String"
  Visible="no"
  Name="328960"
@@ -2417,12 +2422,12 @@
  SGPropertyType="4"
  IsReadOnly="yes"
 ><objecttag
- id="296"
+ id="298"
  TagType="String"
  Name="263424"
 ><t
- p="474.03 716.94"
- BoundingBox="474.03 707.99 486.81 719.49"
+ p="523 673.94"
+ BoundingBox="523 664.99 535.78 676.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">No</s></t></objecttag></sgdatum><sgdatum
  id="394496"
@@ -2431,12 +2436,12 @@
  SGPropertyType="6"
  IsEdited="yes"
 ><objecttag
- id="297"
+ id="299"
  TagType="String"
  Name="394496"
 ><t
- p="474.03 731.94"
- BoundingBox="474.03 722.69 493.49 734.44"
+ p="523 688.94"
+ BoundingBox="523 679.69 542.46 691.44"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="99">2.70</s></t></objecttag></sgdatum><sgdatum
  id="460032"
@@ -2444,12 +2449,12 @@
  SGDataValue="0.175942"
  SGPropertyType="7"
 ><objecttag
- id="298"
+ id="300"
  TagType="String"
  Name="460032"
 ><t
- p="474.03 746.94"
- BoundingBox="474.03 737.99 515.03 749.49"
+ p="523 703.94"
+ BoundingBox="523 694.99 564.01 706.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">175.94</s><s font="3" size="7.5" color="0" face="96">mg</s></t></objecttag></sgdatum><sgdatum
  id="525568"
@@ -2457,13 +2462,13 @@
  SGDataValue="1"
  SGPropertyType="8"
 ><objecttag
- id="299"
+ id="301"
  TagType="String"
  Visible="no"
  Name="525568"
 ><t
- p="474.03 761.94"
- BoundingBox="474.03 752.99 511.28 764.49"
+ p="523 718.94"
+ BoundingBox="523 709.99 560.26 721.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2473,13 +2478,13 @@
  SGDataValue="0"
  SGPropertyType="10"
 ><objecttag
- id="300"
+ id="302"
  TagType="String"
  Visible="no"
  Name="656640"
 ><t
- p="474.03 776.94"
- BoundingBox="474.03 767.99 499.74 779.49"
+ p="523 733.94"
+ BoundingBox="523 724.99 548.71 736.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2489,13 +2494,13 @@
  SGDataValue="0"
  SGPropertyType="12"
 ><objecttag
- id="301"
+ id="303"
  TagType="String"
  Visible="no"
  Name="787712"
 ><t
- p="474.03 791.94"
- BoundingBox="474.03 782.99 510.16 794.49"
+ p="523 748.94"
+ BoundingBox="523 739.99 559.14 751.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2505,13 +2510,13 @@
  SGDataValue="0"
  SGPropertyType="9"
 ><objecttag
- id="302"
+ id="304"
  TagType="String"
  Visible="no"
  Name="591104"
 ><t
- p="474.03 806.94"
- BoundingBox="474.03 797.99 503.91 809.49"
+ p="523 763.94"
+ BoundingBox="523 754.99 552.88 766.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2521,12 +2526,12 @@
  SGDataValue="0.000539998"
  SGPropertyType="13"
 ><objecttag
- id="303"
+ id="305"
  TagType="String"
  Name="853248"
 ><t
- p="474.03 821.94"
- BoundingBox="474.03 812.99 521.02 824.49"
+ p="523 778.94"
+ BoundingBox="523 769.99 569.99 781.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">540.00</s><s font="3" size="7.5" color="0" face="96">µmol</s></t></objecttag></sgdatum><sgdatum
  id="918784"
@@ -2534,12 +2539,12 @@
  SGDataValue="0.175942"
  SGPropertyType="14"
 ><objecttag
- id="304"
+ id="306"
  TagType="String"
  Name="918784"
 ><t
- p="474.03 836.94"
- BoundingBox="474.03 827.99 515.03 839.49"
+ p="523 793.94"
+ BoundingBox="523 784.99 564.01 796.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">175.94</s><s font="3" size="7.5" color="0" face="96">mg</s></t></objecttag></sgdatum></sgcomponent><sgcomponent
  id="6"
@@ -2553,12 +2558,12 @@
  SGPropertyType="1"
  IsReadOnly="yes"
 ><objecttag
- id="305"
+ id="307"
  TagType="String"
  Name="67072"
 ><t
- p="535.98 686.94"
- BoundingBox="535.98 677.69 573.76 689.44"
+ p="584.95 643.94"
+ BoundingBox="584.95 634.69 622.74 646.44"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="97">C3H7NO</s></t></objecttag></sgdatum><sgdatum
  id="132608"
@@ -2567,12 +2572,12 @@
  SGPropertyType="2"
  IsReadOnly="yes"
 ><objecttag
- id="306"
+ id="308"
  TagType="String"
  Name="132608"
 ><t
- p="535.98 701.94"
- BoundingBox="535.98 692.99 561 704.49"
+ p="584.95 658.94"
+ BoundingBox="584.95 649.99 609.98 661.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">73.09</s></t></objecttag></sgdatum><sgdatum
  id="329216"
@@ -2583,7 +2588,7 @@
  IsHidden="yes"
  Visible="no"
 ><objecttag
- id="307"
+ id="309"
  TagType="String"
  Visible="no"
  Name="329216"
@@ -2600,12 +2605,12 @@
  SGPropertyType="4"
  IsReadOnly="yes"
 ><objecttag
- id="308"
+ id="310"
  TagType="String"
  Name="263680"
 ><t
- p="535.98 716.94"
- BoundingBox="535.98 707.99 548.76 719.49"
+ p="584.95 673.94"
+ BoundingBox="584.95 664.99 597.73 676.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">No</s></t></objecttag></sgdatum><sgdatum
  id="394752"
@@ -2614,12 +2619,12 @@
  SGPropertyType="6"
  IsEdited="yes"
 ><objecttag
- id="309"
+ id="311"
  TagType="String"
  Name="394752"
 ><t
- p="535.98 731.94"
- BoundingBox="535.98 722.69 566.56 734.44"
+ p="584.95 688.94"
+ BoundingBox="584.95 679.69 615.54 691.44"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="99">100.00</s></t></objecttag></sgdatum><sgdatum
  id="460288"
@@ -2627,12 +2632,12 @@
  SGDataValue="1.46189"
  SGPropertyType="7"
 ><objecttag
- id="310"
+ id="312"
  TagType="String"
  Name="460288"
 ><t
- p="535.98 746.94"
- BoundingBox="535.98 737.99 559.61 749.49"
+ p="584.95 703.94"
+ BoundingBox="584.95 694.99 608.59 706.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">1.46</s><s font="3" size="7.5" color="0" face="96">g</s></t></objecttag></sgdatum><sgdatum
  id="525824"
@@ -2640,13 +2645,13 @@
  SGDataValue="1"
  SGPropertyType="8"
 ><objecttag
- id="311"
+ id="313"
  TagType="String"
  Visible="no"
  Name="525824"
 ><t
- p="535.98 761.94"
- BoundingBox="535.98 752.99 573.23 764.49"
+ p="584.95 718.94"
+ BoundingBox="584.95 709.99 622.21 721.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2656,13 +2661,13 @@
  SGDataValue="0"
  SGPropertyType="10"
 ><objecttag
- id="312"
+ id="314"
  TagType="String"
  Visible="no"
  Name="656896"
 ><t
- p="535.98 776.94"
- BoundingBox="535.98 767.99 561.69 779.49"
+ p="584.95 733.94"
+ BoundingBox="584.95 724.99 610.66 736.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2673,12 +2678,12 @@
  SGPropertyType="12"
  IsEdited="yes"
 ><objecttag
- id="313"
+ id="315"
  TagType="String"
  Name="787968"
 ><t
- p="535.98 791.94"
- BoundingBox="535.98 782.69 591.15 794.44"
+ p="584.95 748.94"
+ BoundingBox="584.95 739.69 640.12 751.44"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="99">948.00</s><s font="3" size="7.5" color="0" face="99">mg/mL</s></t></objecttag></sgdatum><sgdatum
  id="591360"
@@ -2686,12 +2691,12 @@
  SGDataValue="1.54208"
  SGPropertyType="9"
 ><objecttag
- id="314"
+ id="316"
  TagType="String"
  Name="591360"
 ><t
- p="535.98 806.94"
- BoundingBox="535.98 797.99 565.86 809.49"
+ p="584.95 763.94"
+ BoundingBox="584.95 754.99 614.83 766.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">1.54</s><s font="3" size="7.5" color="0" face="96">mL</s></t></objecttag></sgdatum><sgdatum
  id="853504"
@@ -2699,12 +2704,12 @@
  SGDataValue="0.0199999"
  SGPropertyType="13"
 ><objecttag
- id="315"
+ id="317"
  TagType="String"
  Name="853504"
 ><t
- p="535.98 821.94"
- BoundingBox="535.98 812.99 579.33 824.49"
+ p="584.95 778.94"
+ BoundingBox="584.95 769.99 628.31 781.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">20.00</s><s font="3" size="7.5" color="0" face="96">mmol</s></t></objecttag></sgdatum><sgdatum
  id="919040"
@@ -2712,12 +2717,12 @@
  SGDataValue="1.46189"
  SGPropertyType="14"
 ><objecttag
- id="316"
+ id="318"
  TagType="String"
  Name="919040"
 ><t
- p="535.98 836.94"
- BoundingBox="535.98 827.99 559.61 839.49"
+ p="584.95 793.94"
+ BoundingBox="584.95 784.99 608.59 796.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">1.46</s><s font="3" size="7.5" color="0" face="96">g</s></t></objecttag></sgdatum></sgcomponent><sgcomponent
  id="7"
@@ -2730,12 +2735,12 @@
  SGPropertyType="1"
  IsReadOnly="yes"
 ><objecttag
- id="317"
+ id="319"
  TagType="String"
  Name="67328"
 ><t
- p="694.73 686.94"
- BoundingBox="694.73 677.69 755.87 689.44"
+ p="743.70 643.94"
+ BoundingBox="743.70 634.69 804.84 646.44"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="97">C24H27N3O7S</s></t></objecttag></sgdatum><sgdatum
  id="132864"
@@ -2744,12 +2749,12 @@
  SGPropertyType="2"
  IsReadOnly="yes"
 ><objecttag
- id="318"
+ id="320"
  TagType="String"
  Name="132864"
 ><t
- p="694.73 701.94"
- BoundingBox="694.73 692.99 725.31 704.49"
+ p="743.70 658.94"
+ BoundingBox="743.70 649.99 774.29 661.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">501.55</s></t></objecttag></sgdatum><sgdatum
  id="329472"
@@ -2760,7 +2765,7 @@
  IsHidden="yes"
  Visible="no"
 ><objecttag
- id="319"
+ id="321"
  TagType="String"
  Visible="no"
  Name="329472"
@@ -2776,13 +2781,13 @@
  SGDataValue="1"
  SGPropertyType="6"
 ><objecttag
- id="320"
+ id="322"
  TagType="String"
  Visible="no"
  Name="395008"
 ><t
- p="694.73 716.94"
- BoundingBox="694.73 707.99 714.19 719.49"
+ p="743.70 673.94"
+ BoundingBox="743.70 664.99 763.16 676.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2792,13 +2797,13 @@
  SGDataValue="1"
  SGPropertyType="22"
 ><objecttag
- id="321"
+ id="323"
  TagType="String"
  Visible="no"
  Name="1443584"
 ><t
- p="694.73 731.94"
- BoundingBox="694.73 722.99 731.98 734.49"
+ p="743.70 688.94"
+ BoundingBox="743.70 679.99 780.96 691.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2809,12 +2814,12 @@
  SGPropertyType="15"
  IsReadOnly="yes"
 ><objecttag
- id="322"
+ id="324"
  TagType="String"
  Name="984832"
 ><t
- p="694.73 746.94"
- BoundingBox="694.73 737.99 735.73 749.49"
+ p="743.70 703.94"
+ BoundingBox="743.70 694.99 784.71 706.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">100.31</s><s font="3" size="7.5" color="0" face="96">mg</s></t></objecttag></sgdatum><sgdatum
  id="1050368"
@@ -2823,12 +2828,12 @@
  SGPropertyType="16"
  IsReadOnly="yes"
 ><objecttag
- id="323"
+ id="325"
  TagType="String"
  Name="1050368"
 ><t
- p="694.73 761.94"
- BoundingBox="694.73 752.99 741.72 764.49"
+ p="743.70 718.94"
+ BoundingBox="743.70 709.99 790.69 721.49"
  LineHeight="auto"
 ><s font="3" size="10" color="0" face="96">200.00</s><s font="3" size="7.5" color="0" face="96">µmol</s></t></objecttag></sgdatum><sgdatum
  id="1115904"
@@ -2836,13 +2841,13 @@
  SGDataValue="0"
  SGPropertyType="17"
 ><objecttag
- id="324"
+ id="326"
  TagType="String"
  Visible="no"
  Name="1115904"
 ><t
- p="694.73 776.94"
- BoundingBox="694.73 767.99 718.36 779.49"
+ p="743.70 733.94"
+ BoundingBox="743.70 724.99 767.34 736.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2852,13 +2857,13 @@
  SGDataValue="1"
  SGPropertyType="18"
 ><objecttag
- id="325"
+ id="327"
  TagType="String"
  Visible="no"
  Name="1181440"
 ><t
- p="694.73 791.94"
- BoundingBox="694.73 782.99 731.98 794.49"
+ p="743.70 748.94"
+ BoundingBox="743.70 739.99 780.96 751.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2869,13 +2874,13 @@
  SGPropertyType="19"
  IsReadOnly="yes"
 ><objecttag
- id="326"
+ id="328"
  TagType="String"
  Visible="no"
  Name="1246976"
 ><t
- p="694.73 806.94"
- BoundingBox="694.73 797.99 718.36 809.49"
+ p="743.70 763.94"
+ BoundingBox="743.70 754.99 767.34 766.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2886,13 +2891,13 @@
  SGPropertyType="20"
  IsReadOnly="yes"
 ><objecttag
- id="327"
+ id="329"
  TagType="String"
  Visible="no"
  Name="1312512"
 ><t
- p="694.73 821.94"
- BoundingBox="694.73 812.99 726.27 824.49"
+ p="743.70 778.94"
+ BoundingBox="743.70 769.99 775.25 781.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
@@ -2903,13 +2908,13 @@
  SGPropertyType="21"
  IsReadOnly="yes"
 ><objecttag
- id="328"
+ id="330"
  TagType="String"
  Visible="no"
  Name="1378048"
 ><t
- p="694.73 836.94"
- BoundingBox="694.73 827.99 720.86 839.49"
+ p="743.70 793.94"
+ BoundingBox="743.70 784.99 769.83 796.49"
  Visible="no"
  IgnoreWarnings="yes"
  LineHeight="auto"
