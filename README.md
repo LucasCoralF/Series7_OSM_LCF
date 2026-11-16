@@ -2,7 +2,7 @@
 
 Lucas Coral (LucasCoralF) is a PhD student State University of Campinas and a visiting researcher at University College London studying Drug Discovery and Design. He is currently undertaking a research project under the supervision of Prof. Matthew Todd with the Todd group (https://todd-lers.github.io/about/current.html). This ELN contains experiments and observations obtained from the research project.
 
-The goal of the project is to develop a serie of OSM-S-106 structural analogues containing fluorine atoms and evaluate its biological activity against malaria. 
+The goal of the project is to develop a serie of OSM-S-106 structural analogues and evaluate its biological activity against malaria. 
 
 # ELN Pages
 
